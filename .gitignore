@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+.chroma/
+*.pyc
+.pytest_cache/
+evaluation_results.csv
